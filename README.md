@@ -1,11 +1,7 @@
 # RENT A CAR APP WITH FLUTTER
 
-Teammates
- - [@batuhandavuts](https://github.com/batuhandavuts)
- - [@MeliksahCaliskan52](https://github.com/MeliksahCaliskan52)
-
 Ders Adı: Mobil Programlamaya Giriş
-Supervisor: KEYVAN ARASTEH ABBASABAD - @keyvanarasteh
+Supervisor: KEYVAN ARASTEH ABBASABAD
 
 <h2 align="left">Flutter Rent A Car App Final Project</h2>
 
