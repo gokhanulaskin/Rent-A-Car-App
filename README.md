@@ -1,8 +1,5 @@
 # RENT A CAR APP WITH FLUTTER
 
-Ders Adı: Mobil Programlamaya Giriş
-Supervisor: KEYVAN ARASTEH ABBASABAD
-
 <h2 align="left">Flutter Rent A Car App Final Project</h2>
 
 <div align="center">
